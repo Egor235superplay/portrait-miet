@@ -1,0 +1,14 @@
+{
+  "method_id": "m02",
+  "questions": [
+    {
+      "text": "Я предпочитаю работать один.",
+      "type": "choice", 
+      "options": [{"value": "да"}, {"value": "нет"}]
+    },
+    {
+      "text": "Я люблю читать книги.",
+      "type": "number"
+    }
+  ]
+}

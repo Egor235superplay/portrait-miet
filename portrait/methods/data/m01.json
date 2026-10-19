@@ -1,0 +1,10 @@
+{
+  "method_id": "m01",
+  "questions": [
+    {
+      "text": "Мне нравится узнавать новое.",
+      "type": "scale", 
+      "options": [{"value": 1, "label": "Не согласен"}, {"value": 3, "label": "Согласен"}]
+    }
+  ]
+}
